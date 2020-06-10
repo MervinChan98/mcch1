@@ -12,4 +12,5 @@
   die("Error connection: ".sqlsrv_errors());
   }
   echo "DB Server: Connected!";
-}
+
+?>
